@@ -1,0 +1,5 @@
+
+
+2019-04-11 10:53:00::hub.challenge=YcVNOlLyZnSfEWTOSNVKK7GcUNOlsv_d5REuA-F9&hub.lease_seconds=3600&hub.mode=subscribe&hub.topic=https%3A%2F%2Fapi.twitch.tv%2Fhelix%2Fusers%2Ffollows%3Ffirst%3D1%26to_id%3D429337296
+
+2019-04-11 10:53:00::YcVNOlLyZnSfEWTOSNVKK7GcUNOlsv_d5REuA-F9

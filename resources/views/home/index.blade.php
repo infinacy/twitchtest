@@ -1,0 +1,1 @@
+<a href="{{route('login_with_twitch')}}">Login with Twitch</a>
